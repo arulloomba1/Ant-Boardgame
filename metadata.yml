@@ -1,0 +1,14 @@
+---
+:id: 204650688
+:submitters:
+- :name: Navdeep Takher
+  :email: navdeeptakher@berkeley.edu
+- :name: Arul Loomba
+  :email: arulloomba@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-20 20:26:40.356524000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-20 13:26:40.356524000 Z
+:status: processed
+:score: 24.0
