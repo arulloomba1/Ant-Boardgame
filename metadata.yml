@@ -1,8 +1,6 @@
 ---
 :id: 204650688
 :submitters:
-- :name: Navdeep Takher
-  :email: navdeeptakher@berkeley.edu
 - :name: Arul Loomba
   :email: arulloomba@berkeley.edu
 :created_at: !ruby/object:ActiveSupport::TimeWithZone
